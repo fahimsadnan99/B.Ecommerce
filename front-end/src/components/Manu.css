@@ -1,0 +1,14 @@
+.navbar .nav-item .nav-link {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+} 
+
+.navbar .nav-item .nav-link:hover {
+    color: turquoise;
+    background-color: rgb(110, 110, 75);
+}
+
+.active_css  {
+    background-color: yellow;
+}
